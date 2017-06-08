@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Kademika/Java" />
+    </SOURCES>
+    <excluded>
+      <root url="file://C:/Kademika/Java/jdk1.7.0_79" />
+    </excluded>
+  </library>
+</component>

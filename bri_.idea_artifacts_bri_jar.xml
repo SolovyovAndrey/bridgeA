@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="bri:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bri_jar</output-path>
+    <root id="archive" name="bri.jar">
+      <element id="module-output" name="bri" />
+    </root>
+  </artifact>
+</component>
